@@ -14,18 +14,18 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "crazyjy/Blog-With-GitHub-Boilerplate@gh-pages"
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "我的电子手账"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
+author = "crazyjy"
 email = "hi@imalan.cn"
 author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
+description = "坚持是一种正义，我的正义。"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
